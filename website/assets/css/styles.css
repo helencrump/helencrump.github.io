@@ -150,6 +150,10 @@ nav.presence li:first-child {
     margin-left: 0;
 }
 
+nav.presence li:last-child {
+    margin-right: 0;
+}
+
 nav.presence li:first-child:before {
     content: none;
 }
